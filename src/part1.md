@@ -1,0 +1,3 @@
+#ZooKeeper概念和基础
+
+任何对ZooKeeper感兴趣的人都应该阅读这部分。它解释了ZooKeeper解决的问题和在设计过程中作出的权衡。
